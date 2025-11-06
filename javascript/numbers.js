@@ -21,3 +21,15 @@ console.log(15 % 2);
 
 // Power
 console.log(2 ** 3);
+
+// ------_____________------  \\
+
+// Not A Number
+console.log(NaN);
+console.log(0 / 0);
+console.log(NaN + 5);
+
+// Infinity
+console.log(1 / 0);
+// -Infinity
+console.log(-1 / 0);
